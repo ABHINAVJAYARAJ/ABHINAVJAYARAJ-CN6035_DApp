@@ -1,3 +1,6 @@
+This is a modified project of existing GitHub repo: https://github.com/Itshyphen/meDossier?tab=readme-ov-file#addresses-for-different-users
+Smart contracts were deployed for CN6035 Project 
+
 # meDossier : A Decentralized Medical Record Storage
 ---
 ![Main Menu](https://raw.githubusercontent.com/Itshyphen/meDossier/master/Screenshots/Frontpage.png)
